@@ -2,6 +2,7 @@ body {
 	text-align: center;
 	width: 90%
 	margin: auto;
+	background-image: linear-gradient(to bottom, #5b6f98, #8790b1, #b1b3ca, #d8d8e4, #ffffff);
 }
 
 img {
@@ -26,3 +27,4 @@ a {
 	color: #3B8DCD;
 	text-decoration: none;
 }
+
