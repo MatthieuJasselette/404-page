@@ -11,7 +11,8 @@ img {
 	opacity: 0.69;
 }
 
-/*a:hover {
+/* Doesn't work
+a:hover {
 	animation-name: wiggle;
 	animation-duration: 3 s;
 }
@@ -43,6 +44,7 @@ a {
 	background-color: #5b6f98;
 }
 
+/* Doesn't work
 a:hover {
 	animation-play-state: running;
 	animation-name: wiggle;
@@ -52,4 +54,4 @@ a:hover {
 @keyframe wiggle {
 	33% {text-align: left;}
 	33% {text-align: right;}
-	33% {text-align: center}
+	33% {text-align: center}*/
